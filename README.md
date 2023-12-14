@@ -49,7 +49,7 @@
 ## 💳 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Shalaby-VBS/Update_App)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Shalaby-VBS/App_Update)
 - This package is distributed under the MIT License. Feel free to use and modify it according to your project requirements.
 
 <br/>
