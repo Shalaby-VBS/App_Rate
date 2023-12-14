@@ -1,21 +1,19 @@
-# <div align="center">🔮 Update App 🔮</div>
+# <div align="center">⭐️ App Rate ⭐️</div>
 
 
 ## 🚀 Getting Started
 
-- A Flutter application showcasing how to implement in-app updates using the `in_app_update` package. This allows users to seamlessly update the app without leaving the application, ensuring they always have access to the latest features and improvements.
+- A Flutter application showcasing how to implement in-app rating prompts using the `in_app_update` package. This feature allows users to easily rate the app without leaving the application, providing a seamless and user-friendly experience.
 
 <br/>
 
 ## 🪄 Features
 
-- **In-App Updates:** Dynamically update the app without requiring users to navigate to an external app store.
+- **In-App Rating:** Prompt users to rate the app directly within the application.
 
-- **Flexible Update Options:** Implement flexible update strategies, including immediate updates or prompting users to update at their convenience.
+- **Customizable Prompt:** Customize the rating prompt to match the app's design and branding.
 
-- **Background Updates:** Enable background updates to ensure users get the latest version even when the app is not actively in use.
-
-- **User-Friendly Experience:** Provide a smooth and user-friendly experience during the update process.
+- **User-Friendly Experience:** Provide a smooth and non-intrusive rating experience for users.
 
 <br/>
 
@@ -49,7 +47,7 @@
 ## 💳 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Shalaby-VBS/App_Update)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Shalaby-VBS/App_Rate)
 - This package is distributed under the MIT License. Feel free to use and modify it according to your project requirements.
 
 <br/>
